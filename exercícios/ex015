@@ -1,0 +1,2 @@
+tempertura = float (input('informe a temperatura em °c'))
+print ('a temperatura de{:.2f}°c corresponde a {:.2f}°f'.format(tempertura,(tempertura*9/5)+32))
