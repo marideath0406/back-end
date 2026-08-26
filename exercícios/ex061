@@ -1,0 +1,10 @@
+c = 0
+50
+while n != 999:
+n=int(input('Digite um número [999 para parar]
+c+= 1
+if n = 999
+s += -999
+C+-1
+print('Você digitou(c) números e a soma entre
+eles foi (s}')
