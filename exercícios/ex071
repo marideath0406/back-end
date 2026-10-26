@@ -1,0 +1,5 @@
+from random import randint
+n (randint(1,10), randint(1,10), randint(1,10), randint(1,10), randint(1,10)) #variável composta
+print("Eu sortiel os valores (n)')
+print(fo maior valor foi {max(n)))#metodo de tuplas
+print(10 menor valor foi (min(n)}')matodo de tuplas
