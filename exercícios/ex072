@@ -1,0 +1,13 @@
+cont
+n1= (int(input("Digite un número)), int(input("Digite outro número 1)),
+int(input("Digite mais un número )), int(input Digite o último número ")))
+print('Você digitou os valores (nl)')
+print('o número 9 foi digitado (n1.count(9)) vezes")
+if 3 in n1:
+print(fo valor 3 apareceu na (ni.index(3)+1) posiçãn')
+else:
+print(10 valor de 3 não foi encontrado) #tem que fazer o if para não dar erro caso o valor de 3 não for digitado
+print(Flos valores pares digitados foran, end=")
+for in in n1:
+if n % 20:
+print(n, end)
